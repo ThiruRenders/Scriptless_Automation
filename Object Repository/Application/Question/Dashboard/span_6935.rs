@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_6935</name>
+   <tag></tag>
+   <elementGuidId>7a8615d9-500a-460e-8eec-e68ef3babe0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.info-box-number.total_questions</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resultShow']/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3423fefc-e67b-43e4-9721-b2dd16d1da56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>info-box-number total_questions</value>
+      <webElementGuid>3f4f66a4-a415-42e2-bc38-8b710e363700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6935</value>
+      <webElementGuid>eef6aa51-1989-46f0-9b2d-857294b08601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultShow&quot;)/div[@class=&quot;col-12 col-sm-6 col-md-4 col-lg-4&quot;]/div[@class=&quot;info-box shadow mb-3&quot;]/div[@class=&quot;info-box-content&quot;]/span[@class=&quot;info-box-number total_questions&quot;]</value>
+      <webElementGuid>b2d0d0c2-4337-4757-ae12-b311991b14b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resultShow']/div/div/div/span[2]</value>
+      <webElementGuid>bac85b06-e086-4504-af62-8f6c7ae73a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>8d6b84ba-4f7e-4089-88e3-16dbfd0ea48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '6935' or . = '6935')]</value>
+      <webElementGuid>2c077ba0-c32d-4d98-872e-28327d248749</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Compress_icon</name>
+   <tag></tag>
+   <elementGuidId>844da447-d5b6-41bc-a9b3-a841ffb0c095</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[2]/li/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-compress-arrows-alt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>eb42b3d2-61a6-406b-99b9-37e0b4f86c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-compress-arrows-alt</value>
+      <webElementGuid>f14b8548-4b49-46b2-9d5a-4467cbac2640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed&quot;]/div[@class=&quot;wrapper&quot;]/nav[@class=&quot;main-header navbar navbar-expand navbar-dark navbar-primary&quot;]/ul[@class=&quot;navbar-nav ml-auto&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/i[@class=&quot;fas fa-compress-arrows-alt&quot;]</value>
+      <webElementGuid>2a536835-bc64-4621-bba3-a680ed3a1199</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/a/i</value>
+      <webElementGuid>1c4e95c1-faf7-415e-8e36-307d9418d379</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

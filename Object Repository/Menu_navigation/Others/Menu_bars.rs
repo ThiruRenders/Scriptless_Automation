@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu_bars</name>
+   <tag></tag>
+   <elementGuidId>c3f30243-372b-4329-ab49-93002fb1b98d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-bars</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2df478e5-a4a4-44a4-bc4d-425d12ba10cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-bars</value>
+      <webElementGuid>d38c48d9-08d4-44a7-a839-885b9c2dd086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed&quot;]/div[@class=&quot;wrapper&quot;]/nav[@class=&quot;main-header navbar navbar-expand navbar-dark navbar-primary&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link toggleBtn&quot;]/i[@class=&quot;fas fa-bars&quot;]</value>
+      <webElementGuid>ed50f0ee-6927-4107-8e68-d183e78f76b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>9197ad24-7fab-423a-8f01-9021aac8d16d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

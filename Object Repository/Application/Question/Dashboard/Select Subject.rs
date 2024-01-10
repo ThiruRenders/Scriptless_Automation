@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Subject</name>
+   <tag></tag>
+   <elementGuidId>511615e1-a6d4-4bde-b01e-486539a11e68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#subject</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='subject']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>79fdee61-7001-464d-906a-c12817333ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control subject</value>
+      <webElementGuid>ad82ec92-7d38-4fcf-ac37-2495d8e3d30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>subject</value>
+      <webElementGuid>3c404492-a92b-46e6-8d44-d46ee4c65387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>subject</value>
+      <webElementGuid>b0681bc0-e816-42e8-9eaf-5080e48b991e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            - Select Subject -
+                                                                                            English
+                                                                                            Mathematics
+                                                                                            Science
+                                                                                    </value>
+      <webElementGuid>19ef9a6e-e5fa-498f-b0c5-4d73b8219c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subject&quot;)</value>
+      <webElementGuid>cc23010a-4520-4f4c-b1cc-0b709f98ba0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='subject']</value>
+      <webElementGuid>185f054d-9fae-4a19-9cd0-e222cf63909c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/select</value>
+      <webElementGuid>438c582d-4a77-4f4d-ab5c-fd91f1e34af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'subject' and @name = 'subject' and (text() = '
+                                            - Select Subject -
+                                                                                            English
+                                                                                            Mathematics
+                                                                                            Science
+                                                                                    ' or . = '
+                                            - Select Subject -
+                                                                                            English
+                                                                                            Mathematics
+                                                                                            Science
+                                                                                    ')]</value>
+      <webElementGuid>8b5bcdfe-b741-43d9-8539-73e67891fe6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

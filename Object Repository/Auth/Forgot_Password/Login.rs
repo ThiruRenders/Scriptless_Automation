@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <elementGuidId>fa543512-b4e9-46fb-a963-bc9c502e0de2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'https://qc.studysmart.sg' and (text() = 'Login In' or . = 'Login In')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>feeb38db-6c50-49e9-ba4a-eba0c314ad7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://qc.studysmart.sg</value>
+      <webElementGuid>ee7280d0-10d6-4e54-8d82-d81e1eb4941e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login In</value>
+      <webElementGuid>97729186-ef72-4571-b853-21fca1cb3613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard&quot;)/div[@class=&quot;wizard-body&quot;]/div[@class=&quot;col-sm-12&quot;]/form[1]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group text-center&quot;]/a[1]</value>
+      <webElementGuid>5fed1bc6-9c3d-4ed7-a853-602478f37c46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wizard']/div[3]/div/form/div[3]/div/a</value>
+      <webElementGuid>1b47e12a-9ab9-4bd6-956f-1177cc4933b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Login In')]</value>
+      <webElementGuid>885481cd-fb7a-4056-9f78-961802750e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://qc.studysmart.sg')]</value>
+      <webElementGuid>337e565f-03af-4061-ae8c-b857665bcd84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>83fcc64d-182b-4a4a-b67c-6a3625ac3326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://qc.studysmart.sg' and (text() = 'Login In' or . = 'Login In')]</value>
+      <webElementGuid>67e868e6-6e07-472f-87ff-8802b3bbc1fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

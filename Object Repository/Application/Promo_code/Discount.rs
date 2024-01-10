@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Discount</name>
+   <tag></tag>
+   <elementGuidId>e0662c82-748f-4c32-aec7-50f8a704e4cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='discount_type']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#discount_type</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>75f12c90-cf5e-4524-a58f-26273bc9a043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>fbd25106-1a35-4145-ba57-e3be71f86a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>discount_type</value>
+      <webElementGuid>2aa2d9ec-80e9-4f09-a18a-d6e42dcec22a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>discount_type</value>
+      <webElementGuid>89023790-7ec4-4a16-b642-bd09637f88ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                            - Select Type -
+                                                            Percentage(%)
+                                                            
+                                                        </value>
+      <webElementGuid>b94145e4-c50a-485d-90e5-f0f21d4d5304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;discount_type&quot;)</value>
+      <webElementGuid>78dfa996-b994-4414-8d4b-1c8349484504</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='discount_type']</value>
+      <webElementGuid>ddae4c4a-7288-430c-8859-4bb77e23ab67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>18839b23-7523-4d8e-b707-c2d8f5c8c7ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'discount_type' and @id = 'discount_type' and (text() = '
+                                                            - Select Type -
+                                                            Percentage(%)
+                                                            
+                                                        ' or . = '
+                                                            - Select Type -
+                                                            Percentage(%)
+                                                            
+                                                        ')]</value>
+      <webElementGuid>0fa755a1-deca-45c7-ab97-dab338b29724</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

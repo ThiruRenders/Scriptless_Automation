@@ -1,0 +1,134 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Application/Flashcard/Flashcard Name",
+      "brokenLocator": "An",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027flashcard_name\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Application/Flashcard/Flashcard Name_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Application/Flashcard/Active_status",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//input[@type\u003d\u0027checkbox\u0027 and @name\u003d\u0027status\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Application/Flashcard/Active_status_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Temp/label_custom-control-label",
+      "brokenLocator": "body.sidebar-mini.layout-fixed.layout-navbar-fixed.layout-footer-fixed:nth-child(2) div.wrapper:nth-child(1) div.content-wrapper:nth-child(3) section.content div.container-fluid div.row div.col-md-12 div.card.shadow div.card-body div.row div.col-12.col-sm-6.col-md-4:nth-child(6) div.form-group div.custom-control.custom-switch.enable.checkbox-success.pt-2:nth-child(3) \u003e label.custom-control-label",
+      "brokenLocatorMethod": "CSS",
+      "proposedLocator": "//div[@class\u003d\u0027form-group\u0027]//input[@type\u003d\u0027checkbox\u0027 and @name\u003d\u0027status\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Temp/label_custom-control-label_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Application/Question/Qn_create/Primary 1",
+      "brokenLocator": "//div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[(text() \u003d \u0027Primary 1\u0027 or . \u003d \u0027Primary 1\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Application/Question/Qn_create/Primary 1_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Application/Question/Qn_create/English",
+      "brokenLocator": "//div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[(text() \u003d \u0027English\u0027 or . \u003d \u0027English\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Application/Question/Qn_create/English_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Application/Question/Qn_create/CA 1",
+      "brokenLocator": "//div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[(text() \u003d \u0027CA 1\u0027 or . \u003d \u0027CA 1\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Application/Question/Qn_create/Select Level",
+      "brokenLocator": "//button[@class\u003d\u0027btn dropdown-toggle btn-light\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@type\u003d\u0027button\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Application/Question/Qn_create/Select Level_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Application/Question/Qn_create/1_Mark",
+      "brokenLocator": "//div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[(text() \u003d \u00271\n                                                        Mark\n                                                    \u0027 or . \u003d \u00271\n                                                        Mark\n                                                    \u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Application/Question/Qn_create/1_Mark_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Application/Question/Qn_create/MCQ",
+      "brokenLocator": "//div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[(text() \u003d \u0027MCQ\u0027 or . \u003d \u0027MCQ\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Application/Question/Qn_create/MCQ_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Temp/a_Primary 1",
+      "brokenLocator": "//div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[(text() \u003d \u0027Primary 1\u0027 or . \u003d \u0027Primary 1\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Temp/a_1                                        _a47756",
+      "brokenLocator": "//div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[(text() \u003d \u00271\n                                                        Mark\n                                                    \u0027 or . \u003d \u00271\n                                                        Mark\n                                                    \u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Temp/a_1                                        _a47756_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Temp/button_1",
+      "brokenLocator": "//div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//button[@type\u003d\u0027button\u0027])[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Temp/button_1_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Application/Question/Qn_create/a_English",
+      "brokenLocator": "//div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[(text() \u003d \u0027English\u0027 or . \u003d \u0027English\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}

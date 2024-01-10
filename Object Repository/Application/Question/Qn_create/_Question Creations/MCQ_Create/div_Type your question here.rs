@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Type your question here</name>
+   <tag></tag>
+   <elementGuidId>79e9cdf8-8c21-47ff-8701-2c24100dd72e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.note-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div/div[2]/div/div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af91d32a-04ce-4a35-9623-17fc2bb5f1e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>note-placeholder</value>
+      <webElementGuid>ff346552-1c1d-4133-a9d3-5b57eecb9400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Type your question here</value>
+      <webElementGuid>8a2e7076-a89a-4b84-9ccf-b99b9d0b5226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-main&quot;]/div[@class=&quot;template_section shadow&quot;]/div[@class=&quot;note-editor note-frame card&quot;]/div[@class=&quot;note-editing-area&quot;]/div[@class=&quot;note-placeholder&quot;]</value>
+      <webElementGuid>00bb5d42-3419-4e95-bbd9-cae1ecdbf85c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div/div[2]/div/div[2]/div[3]/div</value>
+      <webElementGuid>c39ac66a-2c6e-4297-991b-f86bae45232c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>42bffaef-447e-4f72-96d3-e7c70a86f7b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Type your question here' or . = 'Type your question here')]</value>
+      <webElementGuid>1f97e669-2aa0-44b9-b949-e0e3cb9612bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

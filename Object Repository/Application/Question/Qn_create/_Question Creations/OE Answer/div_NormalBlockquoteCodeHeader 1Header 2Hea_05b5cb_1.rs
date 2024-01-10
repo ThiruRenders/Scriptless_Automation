@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NormalBlockquoteCodeHeader 1Header 2Hea_05b5cb_1</name>
+   <tag></tag>
+   <elementGuidId>86167b4f-a252-48e2-ab1e-4fc9c33c3199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.note-editor.note-frame.card</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1568014-237f-4f10-a05e-84fa20d7153c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>note-editor note-frame card</value>
+      <webElementGuid>fc0253a9-4346-46fa-b1e7-d6787d9d39ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NormalBlockquoteCodeHeader 1Header 2Header 3Header 4Header 5Header 616 8 9 10 11 12 14 18 20 22 24Background ColorTransparentSelectText ColorReset to defaultSelect 1.0 1.2 1.4 1.5 1.6 1.8 2.0 3.01 x 1BlankLong BlankDeleteAnswer BoxHintType your question hereInsert Link×Text to displayTo what URL should this link go? Open in new window Use default protocol Insert Image×Select from filesImage URL100%50%25%Insert Video×Video URL (YouTube, Vimeo, Vine, Instagram, DailyMotion or Youku)Help×ESCEscapeENTERInsert ParagraphCTRL+ZUndo the last commandCTRL+YRedo the last commandTABTabSHIFT+TABUntabCTRL+BSet a bold styleCTRL+ISet a italic styleCTRL+USet a underline styleCTRL+SHIFT+SSet a strikethrough styleCTRL+BACKSLASHClean a styleCTRL+SHIFT+LSet left alignCTRL+SHIFT+ESet center alignCTRL+SHIFT+RSet right alignCTRL+SHIFT+JSet full alignCTRL+SHIFT+NUM7Toggle unordered listCTRL+SHIFT+NUM8Toggle ordered listCTRL+LEFTBRACKETOutdent on current paragraphCTRL+RIGHTBRACKETIndent on current paragraphCTRL+NUM0Change current block's format as a paragraph(P tag)CTRL+NUM1Change current block's format as H1CTRL+NUM2Change current block's format as H2CTRL+NUM3Change current block's format as H3CTRL+NUM4Change current block's format as H4CTRL+NUM5Change current block's format as H5CTRL+NUM6Change current block's format as H6CTRL+ENTERInsert horizontal ruleCTRL+KShow Link DialogSummernote 0.8.18 · Project · IssuesSelect Special characters×&quot;&amp;&lt;>¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿×÷ƒˆ˜–—‘’‚“”„†‡•…%′″‹›‾⁄€ℑ℘ℜ™ℵ←↑→↓↔↵⇐⇑⇒⇓⇔∀∂∃∅∇∈∉∋∏∑−∗√∝∞∠∧∨∩∪∫∴∼≅≈≠≡≤≥⊂⊃⊄⊆⊇⊕⊗⊥⋅⌈⌉⌊⌋◊♠♣♥♦</value>
+      <webElementGuid>4aa6c805-568a-43f8-8cd2-79f3c9dac582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-main&quot;]/div[@class=&quot;template_section shadow&quot;]/div[@class=&quot;note-editor note-frame card&quot;]</value>
+      <webElementGuid>5cd326cd-6df1-478a-a888-96ef89338e51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div/div[2]/div/div[2]</value>
+      <webElementGuid>cc432665-d401-49c6-bbfa-c3b82fe282e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>c2c175d9-7743-4ab3-91ea-fd9a2a8d6223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;NormalBlockquoteCodeHeader 1Header 2Header 3Header 4Header 5Header 616 8 9 10 11 12 14 18 20 22 24Background ColorTransparentSelectText ColorReset to defaultSelect 1.0 1.2 1.4 1.5 1.6 1.8 2.0 3.01 x 1BlankLong BlankDeleteAnswer BoxHintType your question hereInsert Link×Text to displayTo what URL should this link go? Open in new window Use default protocol Insert Image×Select from filesImage URL100%50%25%Insert Video×Video URL (YouTube, Vimeo, Vine, Instagram, DailyMotion or Youku)Help×ESCEscapeENTERInsert ParagraphCTRL+ZUndo the last commandCTRL+YRedo the last commandTABTabSHIFT+TABUntabCTRL+BSet a bold styleCTRL+ISet a italic styleCTRL+USet a underline styleCTRL+SHIFT+SSet a strikethrough styleCTRL+BACKSLASHClean a styleCTRL+SHIFT+LSet left alignCTRL+SHIFT+ESet center alignCTRL+SHIFT+RSet right alignCTRL+SHIFT+JSet full alignCTRL+SHIFT+NUM7Toggle unordered listCTRL+SHIFT+NUM8Toggle ordered listCTRL+LEFTBRACKETOutdent on current paragraphCTRL+RIGHTBRACKETIndent on current paragraphCTRL+NUM0Change current block&quot; , &quot;'&quot; , &quot;s format as a paragraph(P tag)CTRL+NUM1Change current block&quot; , &quot;'&quot; , &quot;s format as H1CTRL+NUM2Change current block&quot; , &quot;'&quot; , &quot;s format as H2CTRL+NUM3Change current block&quot; , &quot;'&quot; , &quot;s format as H3CTRL+NUM4Change current block&quot; , &quot;'&quot; , &quot;s format as H4CTRL+NUM5Change current block&quot; , &quot;'&quot; , &quot;s format as H5CTRL+NUM6Change current block&quot; , &quot;'&quot; , &quot;s format as H6CTRL+ENTERInsert horizontal ruleCTRL+KShow Link DialogSummernote 0.8.18 · Project · IssuesSelect Special characters×&quot;&amp;&lt;>¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿×÷ƒˆ˜–—‘’‚“”„†‡•…%′″‹›‾⁄€ℑ℘ℜ™ℵ←↑→↓↔↵⇐⇑⇒⇓⇔∀∂∃∅∇∈∉∋∏∑−∗√∝∞∠∧∨∩∪∫∴∼≅≈≠≡≤≥⊂⊃⊄⊆⊇⊕⊗⊥⋅⌈⌉⌊⌋◊♠♣♥♦&quot;) or . = concat(&quot;NormalBlockquoteCodeHeader 1Header 2Header 3Header 4Header 5Header 616 8 9 10 11 12 14 18 20 22 24Background ColorTransparentSelectText ColorReset to defaultSelect 1.0 1.2 1.4 1.5 1.6 1.8 2.0 3.01 x 1BlankLong BlankDeleteAnswer BoxHintType your question hereInsert Link×Text to displayTo what URL should this link go? Open in new window Use default protocol Insert Image×Select from filesImage URL100%50%25%Insert Video×Video URL (YouTube, Vimeo, Vine, Instagram, DailyMotion or Youku)Help×ESCEscapeENTERInsert ParagraphCTRL+ZUndo the last commandCTRL+YRedo the last commandTABTabSHIFT+TABUntabCTRL+BSet a bold styleCTRL+ISet a italic styleCTRL+USet a underline styleCTRL+SHIFT+SSet a strikethrough styleCTRL+BACKSLASHClean a styleCTRL+SHIFT+LSet left alignCTRL+SHIFT+ESet center alignCTRL+SHIFT+RSet right alignCTRL+SHIFT+JSet full alignCTRL+SHIFT+NUM7Toggle unordered listCTRL+SHIFT+NUM8Toggle ordered listCTRL+LEFTBRACKETOutdent on current paragraphCTRL+RIGHTBRACKETIndent on current paragraphCTRL+NUM0Change current block&quot; , &quot;'&quot; , &quot;s format as a paragraph(P tag)CTRL+NUM1Change current block&quot; , &quot;'&quot; , &quot;s format as H1CTRL+NUM2Change current block&quot; , &quot;'&quot; , &quot;s format as H2CTRL+NUM3Change current block&quot; , &quot;'&quot; , &quot;s format as H3CTRL+NUM4Change current block&quot; , &quot;'&quot; , &quot;s format as H4CTRL+NUM5Change current block&quot; , &quot;'&quot; , &quot;s format as H5CTRL+NUM6Change current block&quot; , &quot;'&quot; , &quot;s format as H6CTRL+ENTERInsert horizontal ruleCTRL+KShow Link DialogSummernote 0.8.18 · Project · IssuesSelect Special characters×&quot;&amp;&lt;>¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿×÷ƒˆ˜–—‘’‚“”„†‡•…%′″‹›‾⁄€ℑ℘ℜ™ℵ←↑→↓↔↵⇐⇑⇒⇓⇔∀∂∃∅∇∈∉∋∏∑−∗√∝∞∠∧∨∩∪∫∴∼≅≈≠≡≤≥⊂⊃⊄⊆⊇⊕⊗⊥⋅⌈⌉⌊⌋◊♠♣♥♦&quot;))]</value>
+      <webElementGuid>3e6be9d9-d470-4f18-9a97-f9a2e74a54b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

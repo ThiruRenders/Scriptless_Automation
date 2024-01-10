@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>For all  Testcase</description>
+   <name>Authorized_user_Login</name>
+   <tag>@commn_login</tag>
+   <comment></comment>
+   <testCaseGuid>3440ad0e-a409-474a-b5ec-37bdaa5ce4f9</testCaseGuid>
+</TestCaseEntity>

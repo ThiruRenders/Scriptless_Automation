@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dont worry(msg)</name>
+   <tag></tag>
+   <elementGuidId>c36fa722-b575-44b7-b66b-2bc30396aafd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wizard']/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.mt-2.text-secondary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8793f8ed-7de3-4670-9a09-39add69c76df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2 text-secondary</value>
+      <webElementGuid>863d092a-a3a1-4318-96a9-7d6c24856a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Don't worry! Enter your email below and we'll email you with instructions on how to reset your password. </value>
+      <webElementGuid>09092131-69f3-4c7f-a51c-a628cb21e186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard&quot;)/div[@class=&quot;wizard-header&quot;]/div[@class=&quot;text-center&quot;]/p[@class=&quot;mt-2 text-secondary&quot;]</value>
+      <webElementGuid>bc951fbf-3702-4238-a37e-ded0892e352f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wizard']/div/div[2]/p</value>
+      <webElementGuid>1520a897-1d1c-4c40-9e25-bf7f91f8706a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>5b94ab22-faf0-4ffd-9c51-04cca21f7cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t worry! Enter your email below and we&quot; , &quot;'&quot; , &quot;ll email you with instructions on how to reset your password. &quot;) or . = concat(&quot;Don&quot; , &quot;'&quot; , &quot;t worry! Enter your email below and we&quot; , &quot;'&quot; , &quot;ll email you with instructions on how to reset your password. &quot;))]</value>
+      <webElementGuid>81e5679a-b2f5-435d-a7a2-2f719f975141</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>P4_Update_button</name>
+   <tag></tag>
+   <elementGuidId>cb1958fb-c8d4-412c-a141-c8f336d574c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#update_4 > i.fas.fa-paper-plane</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='update_4']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9e38fcab-109d-4a0c-81af-5d5fd138a24d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-paper-plane</value>
+      <webElementGuid>7366bd70-8cef-487b-a83f-521044cf5fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;update_4&quot;)/i[@class=&quot;fas fa-paper-plane&quot;]</value>
+      <webElementGuid>25e558dc-442e-46f0-846a-c72bfc0fc301</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='update_4']/i</value>
+      <webElementGuid>ea84b596-f0e1-4033-8dd4-45ddbb8916c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[3]/a[2]/i</value>
+      <webElementGuid>27d24115-38dc-44d1-a328-588273e51cd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

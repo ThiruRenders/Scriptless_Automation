@@ -1,0 +1,54 @@
+{
+  "keywordFileContentHash": "D132EC5648BEA105674E25F98515B419",
+  "keywordClasses": [
+    {
+      "name": "FakerKeywords",
+      "keywordMethods": [
+        {
+          "name": "generateRandomAlphanumeric",
+          "parameters": [
+            {
+              "name": "length",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "FakerKeywords",
+      "keywordMethods": [
+        {
+          "name": "generateRandomAlphanumeric",
+          "parameters": [
+            {
+              "name": "length",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

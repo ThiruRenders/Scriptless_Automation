@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_custom-control custom-switch enable che_3dc359</name>
+   <tag></tag>
+   <elementGuidId>f378c89a-a4b8-416e-a0d1-ff334777eb9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div/div[2]/div/div[6]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.custom-control.custom-switch.enable.checkbox-success.pt-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf880fd7-4fdd-439f-819d-a049d9bac5d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control custom-switch enable checkbox-success pt-2</value>
+      <webElementGuid>d89c15de-e50e-4d6d-9af2-2a5105e39757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;card shadow&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-6 col-md-4&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;custom-control custom-switch enable checkbox-success pt-2&quot;]</value>
+      <webElementGuid>625e27fe-238d-47b8-a1ca-2126f413e028</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div/div[2]/div/div[6]/div/div[2]</value>
+      <webElementGuid>f4c54f6b-b67e-4afb-af01-cc12cc1b63e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]</value>
+      <webElementGuid>e0f2c8f4-b359-40f5-b855-e30ad825fbb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
